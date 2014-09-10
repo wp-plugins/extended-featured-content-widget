@@ -1,8 +1,7 @@
 === Plugin Name ===
 Contributors: Chinmoy Paul
 Author URI: http://www.pwdtechnology.com
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=phpwebdeveloper%40gmail%2ecom&item_name=Testimonials%20Plugin&item_number=Support%20Open%20Source&no_shipping=0&no_note=1&tax=0&currency_code=USD&lc=US&bn=PP%2dDonationsBF&charset=UTF%2d8
-Tags: featured post,featured post content,post,page,category,tags,post thumbnail,widget
+Tags: featured post,featured post content,post,page,category,tags,post thumbnail,widget,plugin,wordpress
 Version: 0.1
 Requires at least: 3.0
 Tested up to: 4.0
