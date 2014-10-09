@@ -77,6 +77,7 @@ Here is the some examples:
 
 1. [3 Columns Grid Style](http://pwdtechnology.com/grid-view-template-twenty-fourteen-theme-using-efcwp-plugin/ "3 Columns Grid Style")
 2. [Featured Content on Home Page](http://pwdtechnology.com/creating-extra-widget-area-home-page-twenty-fourteen-theme/ "Featured Content on Home Page")
+3. [Custom Post Type Demo](http://pwdtechnology.com/displaying-custom-post-type-content-using-efcwp-plugin/ "Custom Post Type Demo")
 
 This plugin is using lot of hooks and filters. Here is the list of those Hooks & Filters
 
