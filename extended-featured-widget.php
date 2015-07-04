@@ -5,9 +5,9 @@
  * Description: Extended Featured widget is a Wrdpress Plugin which allows support for custom post types, taxonomies, and extends the flexibility of the widget via action hooks to allow the elements to be repositioned or other elements to be added. This requires WordPress 3.0+. 
  * Author: Chinmoy Paul
  * Author URI: http://pwdtechnology.com
- * Version: 0.1
+ * Version: 0.2
  * Requires at least: 3.0
- * Tested up to: 4.0
+ * Tested up to: 4.2.2
  * Text Domain: efwp
  * Domain Path /languages/
  * License: GPLv2

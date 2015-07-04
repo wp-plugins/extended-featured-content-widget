@@ -53,7 +53,7 @@ class Extended_Featured_Posts_Widget extends WP_Widget {
 			'height'  => 'auto',
 		);
 
-		$this->WP_Widget( 'extended-featured-widget', __( 'Extended Featured Widget', 'efwp' ), $widget_ops, $control_ops );
+		WP_Widget::WP_Widget( 'extended-featured-widget', __( 'Extended Featured Widget', 'efwp' ), $widget_ops, $control_ops );
   }
   
   /**
